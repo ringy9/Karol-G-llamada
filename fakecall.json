@@ -1,0 +1,52 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "815a3d1de6879452",
+            "max_int": "1f4000c28dba0d26",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Karol G llamada",
+            "photo": "https://i.postimg.cc/YqvCTQbK/d09366ee244425c5172241b4b0f4341c.jpg",
+            "voice": "https://ringy9.github.io/Karol-G-llamada/suara.mp3",
+            "video": "https://ringy9.github.io/Karol-G-llamada/vida.mp4",
+            "stories": [
+                "https://i.postimg.cc/x1bqNLzy/18a0e12ffe7faa4a4c520b5643564833.jpg",
+"https://i.postimg.cc/7Pm5FH47/2cda0218ebc1a7facf9d932b296bbacb.jpg",
+"https://i.postimg.cc/MTtGJDCx/3297d6ea651061b31164c0bb36554e51.jpg",
+"https://i.postimg.cc/JnRhFgdP/8235ca79dcf84ff60ca20d5919dcf987.jpg",
+"https://i.postimg.cc/28y1msjt/8cafabd56b3421bfb5d2df93bd163e01.jpg",
+"https://i.postimg.cc/KvWRY0R8/ab1dd9d6fc726f75b6b89e391baeb489.jpg",
+"https://i.postimg.cc/1Xt3mFSF/ad5820f4c92897263a63deaaa0aa681f.jpg",
+"https://i.postimg.cc/Dzk0rmQV/c1910dd6188cd3c1943951b1f9d54e8d.jpg",
+"https://i.postimg.cc/s2YXwyKM/d074f01e692ae804477eb7c4b4683c28.jpg",
+"https://i.postimg.cc/YqvCTQbK/d09366ee244425c5172241b4b0f4341c.jpg",
+"https://i.postimg.cc/XNHv2sKk/e54d5ec5b2d8934f4b6092bec982a952.jpg",
+"https://i.postimg.cc/5yRN6t9R/f12d5b2f2c4eda500bfc9e8ec66be3cd.jpg"
+            ],
+            "wallpapers": [
+               "https://i.postimg.cc/x1bqNLzy/18a0e12ffe7faa4a4c520b5643564833.jpg",
+"https://i.postimg.cc/7Pm5FH47/2cda0218ebc1a7facf9d932b296bbacb.jpg",
+"https://i.postimg.cc/MTtGJDCx/3297d6ea651061b31164c0bb36554e51.jpg",
+"https://i.postimg.cc/JnRhFgdP/8235ca79dcf84ff60ca20d5919dcf987.jpg",
+"https://i.postimg.cc/28y1msjt/8cafabd56b3421bfb5d2df93bd163e01.jpg",
+"https://i.postimg.cc/KvWRY0R8/ab1dd9d6fc726f75b6b89e391baeb489.jpg",
+"https://i.postimg.cc/1Xt3mFSF/ad5820f4c92897263a63deaaa0aa681f.jpg",
+"https://i.postimg.cc/Dzk0rmQV/c1910dd6188cd3c1943951b1f9d54e8d.jpg",
+"https://i.postimg.cc/s2YXwyKM/d074f01e692ae804477eb7c4b4683c28.jpg",
+"https://i.postimg.cc/YqvCTQbK/d09366ee244425c5172241b4b0f4341c.jpg",
+"https://i.postimg.cc/XNHv2sKk/e54d5ec5b2d8934f4b6092bec982a952.jpg",
+"https://i.postimg.cc/5yRN6t9R/f12d5b2f2c4eda500bfc9e8ec66be3cd.jpg"
+            ]
+          
+        }
+    ]
+}
